@@ -1,4 +1,4 @@
-# IMaterialist classifier
+# Endo_recognition Classifier
 
 ## Description
 
